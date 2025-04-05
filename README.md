@@ -1,8 +1,8 @@
 # 🐱 random-cat-bot
 
-Telegram-бот, который присылает случайные картинки котов по команде или нажатию на кнопку.
+A simple Telegram bot that sends random cat images on command or button click.
 
-## Стек
+## Stack
 
 - Node.js
 - grammY
